@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\ManagementSytstem.exe.config
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\ManagementSytstem.exe
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\ManagementSytstem.pdb
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.Properties.Resources.resources
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.UI.Auth.LoginPage.resources
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.exe
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.pdb
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\ManagementSytstem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\ManagementSytstem\obj\Debug\ManagementSytstem.Migrations.Intail.resources
